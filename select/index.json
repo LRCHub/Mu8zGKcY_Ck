@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Black Catcher",
+  "base_artist": "ビッケブランカ",
+  "createdAt": "2025-12-14T12:43:31.665907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/01_Black_Catcher_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/02_Black_Catcher_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/03_Black_Catcher_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/04_Black_Catcher_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Catcher (From \"Black Clover\")",
+      "artist": "Rainych feat. Mattyyym",
+      "has_synced": true,
+      "path": "select/05_Black_Catcher_(From__Black_Clover_)_Rainych_feat._Mattyyym.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Catcher (From \"Black Clover\")",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/06_Black_Catcher_(From__Black_Clover_)_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/07_Black_Catcher_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/08_Black_Catcher_Will_Stetson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Black Catcher (From \"Black Clover\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/09_Black_Catcher_(From__Black_Clover_)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/10_Black_Catcher_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vicke Blanka",
+      "has_synced": true,
+      "path": "select/11_Black_Catcher_Vicke_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vicke Blanka",
+      "has_synced": true,
+      "path": "select/12_Black_Catcher_Vicke_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Catcher (from \"Black Clover\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Black_Catcher_(from__Black_Clover_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Blinding Sunrise",
+      "has_synced": true,
+      "path": "select/14_Black_Catcher_Blinding_Sunrise.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Catcher",
+      "artist": "Vickeblanka; ビッケブランカ",
+      "has_synced": true,
+      "path": "select/15_Black_Catcher_Vickeblanka;_ビッケブランカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Black Catcher",
+      "artist": "ビッケブランカ",
+      "has_synced": false,
+      "path": "select/pl_01_Black_Catcher_ビッケブランカ.txt"
+    }
+  ]
+}
